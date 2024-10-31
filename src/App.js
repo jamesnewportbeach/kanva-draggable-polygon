@@ -1,5 +1,5 @@
 import "./App.css";
-import Canvas from "containers/Canvas";
+import Canvas from "components/Canvas";
 function App() {
   return (
     <div className="App">
